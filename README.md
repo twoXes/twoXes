@@ -4,27 +4,26 @@
 
 Arch Linux Packages:
 
-- base
-- linux
-- linux-firmware
-- sway
-- nvim
-- sway 
-- waybar
-- alacritty 
+- [base](https://archlinux.org/packages/core/any/base/)
+- [linux](https://archlinux.org/packages/core/x86_64/linux/)
+- [linux-firmware](https://archlinux.org/packages/core/any/linux-firmware/)
+- [sway](https://wiki.archlinux.org/title/sway)
+- [waybar](https://archlinux.org/packages/community/x86_64/waybar/)
+- :crab: [alacritty](https://wiki.archlinux.org/title/Alacritty) 
 - [neovim]( https://wiki.archlinux.org/title/Neovim)
-  - [lazy.nvim](https://github.com/folke/lazy.nvim)
+  - :zzz: [lazy.nvim](https://github.com/folke/lazy.nvim)
   - [nvim lsconfig](https://github.com/neovim/nvim-lspconfig)
-  - [nvim treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+  - :evergreen_tree: [nvim treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
   - [nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
   - [lualine](https://github.com/nvim-lualine/lualine.nvim)
   - [nvim-autopairs](https://github.com/windwp/nvim-autopairs)
-  - [telescope](https://github.com/nvim-telescope/telescope.nvim)
+  - :telescope: [telescope](https://github.com/nvim-telescope/telescope.nvim)
   - [fugitive](https://github.com/tpope/vim-fugitive)
-  - [nvim deus colorscheme](theniceboy/nvim-deus)
-- [rust](https://wiki.archlinux.org/title/rust)
-- [rust analyzer](https://archlinux.org/packages/community/x86_64/rust-analyzer/)
-- [pyright](https://archlinux.org/packages/community/any/pyright/)
+  - :two: [nvim deus colorscheme](theniceboy/nvim-deus)
+- :crab: [rust](https://wiki.archlinux.org/title/rust)
+- :crab: [rust analyzer](https://archlinux.org/packages/community/x86_64/rust-analyzer/)
+- :snake: [python](https://wiki.archlinux.org/title/python)
+- :snake: [pyright](https://archlinux.org/packages/community/any/pyright/)
 
 
   
