@@ -10,6 +10,7 @@
 - :signal_strength: [networkmanager](https://wiki.archlinux.org/title/NetworkManager)
 - :boot: [efibootmgr](https://archlinux.org/packages/core/x86_64/efibootmgr/)
 - :takeout_box: [grub](https://wiki.archlinux.org/title/GRUB)
+- :superhero: [sudo](https://wiki.archlinux.org/title/sudo)
 - :seedling: [sway](https://wiki.archlinux.org/title/sway)
 - [waybar](https://archlinux.org/packages/community/x86_64/waybar/)
 - :computer: [alacritty](https://wiki.archlinux.org/title/Alacritty) :crab:
