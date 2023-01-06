@@ -37,3 +37,4 @@
 - mkdir /boot/efi && mount /dev/sda1 /boot/efi/ && grub-install /dev/sda
 - sudo xbacklight -ctrl intel_backlight -dec 10
 - grub-mkconfig -o /boot/grub/grub.cfg 
+- nmcli device wifi connect SSID_or_BSSID password password
