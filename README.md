@@ -12,6 +12,7 @@
 - :takeout_box: [grub](https://wiki.archlinux.org/title/GRUB)
 - :superhero: [sudo](https://wiki.archlinux.org/title/sudo)
 - :keyboard: [git](https://wiki.archlinux.org/title/git)
+- :white_haired_man: [man](https://wiki.archlinux.org/title/man_page)
 - :lock: [openssh](https://wiki.archlinux.org/title/OpenSSH)
 - :fishing_pole_and_fish: [wget](https://wiki.archlinux.org/title/wget)
 - :seedling: [sway](https://wiki.archlinux.org/title/sway)
