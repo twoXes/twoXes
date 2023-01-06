@@ -36,6 +36,7 @@
 - :snake: [python](https://wiki.archlinux.org/title/python)
 - :snake: [pyright](https://archlinux.org/packages/community/any/pyright/)
 - :clamp: [clang](https://wiki.archlinux.org/title/clang)
+- :abacus: [typescript language server](https://archlinux.org/packages/community/any/typescript-language-server/)
 - :petri_dish: [make](https://archlinux.org/packages/core/x86_64/make/)
 - :fox_face: [firefox](https://wiki.archlinux.org/title/firefox)
 
