@@ -8,6 +8,7 @@
 - [linux](https://archlinux.org/packages/core/x86_64/linux/)
 - [linux-firmware](https://archlinux.org/packages/core/any/linux-firmware/)
 - :signal_strength: [networkmanager](https://wiki.archlinux.org/title/NetworkManager)
+- :boot: [efibootmgr](https://archlinux.org/packages/core/x86_64/efibootmgr/)
 - :takeout_box: [grub](https://wiki.archlinux.org/title/GRUB)
 - :seedling: [sway](https://wiki.archlinux.org/title/sway)
 - [waybar](https://archlinux.org/packages/community/x86_64/waybar/)
@@ -32,4 +33,5 @@
 
 - iwctl --passphrase passphrase station device connect SSID
 - systemctl enable NetworkManager
+- mkdir /boot/efi && mount /dev/sda1 /boot/efi/ && grub-install /dev/sda
 - sudo xbacklight -ctrl intel_backlight -dec 10
