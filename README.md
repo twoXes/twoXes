@@ -26,4 +26,6 @@ Arch Linux Packages:
 - :snake: [pyright](https://archlinux.org/packages/community/any/pyright/)
 
 
-  
+My favorite commands: 
+
+- sudo xbacklight -ctrl intel_backlight -dec 10
