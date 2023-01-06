@@ -2,11 +2,13 @@
 
 # My bio 
 
-**Arch Linux Packages**
+**Arch Linux Packages** :package:
 
 - [base](https://archlinux.org/packages/core/any/base/)
 - [linux](https://archlinux.org/packages/core/x86_64/linux/)
 - [linux-firmware](https://archlinux.org/packages/core/any/linux-firmware/)
+- :signal_strength: [networkmanager](https://wiki.archlinux.org/title/NetworkManager)
+- :takeout_box: [grub](https://wiki.archlinux.org/title/GRUB)
 - :seedling: [sway](https://wiki.archlinux.org/title/sway)
 - [waybar](https://archlinux.org/packages/community/x86_64/waybar/)
 - :computer: [alacritty](https://wiki.archlinux.org/title/Alacritty) :crab:
