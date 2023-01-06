@@ -7,7 +7,7 @@ Arch Linux Packages:
 - [base](https://archlinux.org/packages/core/any/base/)
 - [linux](https://archlinux.org/packages/core/x86_64/linux/)
 - [linux-firmware](https://archlinux.org/packages/core/any/linux-firmware/)
-- [sway](https://wiki.archlinux.org/title/sway)
+- :seedling: [sway](https://wiki.archlinux.org/title/sway)
 - [waybar](https://archlinux.org/packages/community/x86_64/waybar/)
 - :computer: [alacritty](https://wiki.archlinux.org/title/Alacritty) :crab:
 - [neovim]( https://wiki.archlinux.org/title/Neovim)
