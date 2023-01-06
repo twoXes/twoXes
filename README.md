@@ -31,6 +31,7 @@
 - :snake: [python](https://wiki.archlinux.org/title/python)
 - :snake: [pyright](https://archlinux.org/packages/community/any/pyright/)
 - :clamp: [clang](https://wiki.archlinux.org/title/clang)
+-  :petri_dish: [make](https://archlinux.org/packages/core/x86_64/make/)
 
 
 **Some of my favorite commands**
