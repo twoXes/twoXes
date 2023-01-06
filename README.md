@@ -2,7 +2,7 @@
 
 # My bio 
 
-Arch Linux Packages:
+**Arch Linux Packages**
 
 - [base](https://archlinux.org/packages/core/any/base/)
 - [linux](https://archlinux.org/packages/core/x86_64/linux/)
@@ -26,6 +26,6 @@ Arch Linux Packages:
 - :snake: [pyright](https://archlinux.org/packages/community/any/pyright/)
 
 
-My favorite commands: 
+**Some of my favorite commands**
 
 - sudo xbacklight -ctrl intel_backlight -dec 10
