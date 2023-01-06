@@ -30,6 +30,7 @@
 - :crab: [rust analyzer](https://archlinux.org/packages/community/x86_64/rust-analyzer/)
 - :snake: [python](https://wiki.archlinux.org/title/python)
 - :snake: [pyright](https://archlinux.org/packages/community/any/pyright/)
+- :clamp: [clang](https://wiki.archlinux.org/title/clang)
 
 
 **Some of my favorite commands**
