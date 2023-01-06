@@ -9,7 +9,7 @@ Arch Linux Packages:
 - [linux-firmware](https://archlinux.org/packages/core/any/linux-firmware/)
 - [sway](https://wiki.archlinux.org/title/sway)
 - [waybar](https://archlinux.org/packages/community/x86_64/waybar/)
-- :crab: [alacritty](https://wiki.archlinux.org/title/Alacritty) 
+- :computer: [alacritty](https://wiki.archlinux.org/title/Alacritty) :crab:
 - [neovim]( https://wiki.archlinux.org/title/Neovim)
   - :zzz: [lazy.nvim](https://github.com/folke/lazy.nvim)
   - [nvim lsconfig](https://github.com/neovim/nvim-lspconfig)
