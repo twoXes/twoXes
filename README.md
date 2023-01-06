@@ -30,4 +30,5 @@
 
 **Some of my favorite commands**
 
+- iwctl --passphrase passphrase station device connect SSID
 - sudo xbacklight -ctrl intel_backlight -dec 10
