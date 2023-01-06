@@ -18,6 +18,7 @@
 - :chocolate_bar: [waybar](https://archlinux.org/packages/community/x86_64/waybar/)
 - :heavy_multiplication_x: [xorg-xwayland](https://archlinux.org/packages/extra/x86_64/xorg-xwayland/)
 - :rowboat: [rofi](https://wiki.archlinux.org/title/rofi)
+- :nerd_face: [ttf Hack Nerd Fonts](https://archlinux.org/packages/community/any/ttf-hack-nerd/)
 - :shell: [alacritty](https://wiki.archlinux.org/title/Alacritty) :crab:
 - :aries: [neovim]( https://wiki.archlinux.org/title/Neovim)
   - :zzz: [lazy.nvim](https://github.com/folke/lazy.nvim)
