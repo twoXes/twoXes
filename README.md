@@ -13,6 +13,7 @@
 - :superhero: [sudo](https://wiki.archlinux.org/title/sudo)
 - :keyboard: [git](https://wiki.archlinux.org/title/git)
 - :lock: [openssh](https://wiki.archlinux.org/title/OpenSSH)
+- :fishing_pole_and_fish: [wget](https://wiki.archlinux.org/title/wget)
 - :seedling: [sway](https://wiki.archlinux.org/title/sway)
 - :chocolate_bar: [waybar](https://archlinux.org/packages/community/x86_64/waybar/)
 - :shell: [alacritty](https://wiki.archlinux.org/title/Alacritty) :crab:
