@@ -43,6 +43,8 @@
 - :abacus: [typescript language server](https://archlinux.org/packages/community/any/typescript-language-server/)
 - :petri_dish: [make](https://archlinux.org/packages/core/x86_64/make/)
 - :fox_face: [firefox](https://wiki.archlinux.org/title/firefox)
+- :trackball: [chromium](https://wiki.archlinux.org/title/chromium)
+  - :control_knobs: [audion](https://chrome.google.com/webstore/detail/audion/cmhomipkklckpomafalojobppmmidlgl)
 
 
 **Some of my favorite commands**
