@@ -20,6 +20,7 @@
 - :heavy_multiplication_x: [xorg-xwayland](https://archlinux.org/packages/extra/x86_64/xorg-xwayland/)
 - :rowboat: [rofi](https://wiki.archlinux.org/title/rofi)
 - :nerd_face: [ttf Hack Nerd Fonts](https://archlinux.org/packages/community/any/ttf-hack-nerd/)
+- 🌱 [swaybg](https://archlinux.org/packages/community/x86_64/swaybg/)
 - :person_fencing: [zsh](https://wiki.archlinux.org/title/zsh)
 - :shell: [alacritty](https://wiki.archlinux.org/title/Alacritty) :crab:
 - :aries: [neovim]( https://wiki.archlinux.org/title/Neovim)
