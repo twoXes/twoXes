@@ -61,7 +61,6 @@
 **Top 5 Lists**
 
 #### Philosophers
-
 1. Nietzsche 
 2. Kant
 3. Dostoyevsky
@@ -69,7 +68,6 @@
 5. Heidegger 
 
 #### Rappers
-
 1. MF Doom
 2. Rakim
 3. Biggie
@@ -77,7 +75,6 @@
 5. AZ
 
 #### Directors
-
 1. Tarkovsky
 2. Kubrick
 
@@ -89,7 +86,6 @@
 5. Children of Paradise 
 
 #### Novels
-
 1. Brothers Karamazov 
 2. The Stars My Destination
 3. And Quiet Flows the Don
