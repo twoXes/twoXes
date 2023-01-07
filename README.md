@@ -22,6 +22,8 @@
 - :nerd_face: [ttf Hack Nerd Fonts](https://archlinux.org/packages/community/any/ttf-hack-nerd/)
 - 🌱 [swaybg](https://archlinux.org/packages/community/x86_64/swaybg/)
 - :person_fencing: [zsh](https://wiki.archlinux.org/title/zsh)
+  - :heavy_exclamation_mark: [ohMyZsh](https://github.com/ohmyzsh/ohmyzsh)
+  - :electric_plug: [poweerLevel10k](https://github.com/romkatv/powerlevel10k)
 - :shell: [alacritty](https://wiki.archlinux.org/title/Alacritty) :crab:
 - :aries: [neovim]( https://wiki.archlinux.org/title/Neovim)
   - :zzz: [lazy.nvim](https://github.com/folke/lazy.nvim)
