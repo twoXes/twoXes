@@ -60,11 +60,15 @@
 
 **Top 5 Lists**
 
+#### 
+
 1. Nietzsche 
 2. Kant
 3. Dostoyevsky
 4. Foucault 
 5. Heidegger 
+
+####
 
 1. MF Doom
 2. Rakim
@@ -72,15 +76,18 @@
 4. Nas 
 5. AZ
 
+####
 1. Tarkovsky
 2. Kubrick
 
+####
 1. Moonlight
 2. Barry Lyndon
 3. City Lights
 4. Rocky
 5. Children of Paradise 
 
+####
 1. Brothers Karamazov 
 2. The Stars My Destination
 3. And Quiet Flows the Don
