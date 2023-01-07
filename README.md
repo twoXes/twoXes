@@ -60,7 +60,7 @@
 
 **Top 5 Lists**
 
-#### 
+#### Philosophers
 
 1. Nietzsche 
 2. Kant
