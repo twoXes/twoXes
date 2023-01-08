@@ -58,7 +58,7 @@
 - output HDMI-A-1 resolution 1920x1080 position 0 0 transform 270 
 
 
-**Top 5 Lists**
+## Top 5 Lists
 
 #### Philosophers
 1. Nietzsche 
