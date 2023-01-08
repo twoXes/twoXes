@@ -10,6 +10,7 @@
 - :signal_strength: [networkmanager](https://wiki.archlinux.org/title/NetworkManager)
 - :boot: [efibootmgr](https://archlinux.org/packages/core/x86_64/efibootmgr/)
 - :takeout_box: [grub](https://wiki.archlinux.org/title/GRUB)
+- :bulb: [light](https://github.com/haikarainen/light)
 - :superhero: [sudo](https://wiki.archlinux.org/title/sudo)
 - :keyboard: [git](https://wiki.archlinux.org/title/git)
 - :white_haired_man: [man](https://wiki.archlinux.org/title/man_page)
