@@ -53,7 +53,7 @@
 - iwctl --passphrase passphrase station device connect SSID
 - systemctl enable NetworkManager
 - mkdir /boot/efi && mount /dev/sda1 /boot/efi/ && grub-install /dev/sda
-- sudo xbacklight -ctrl intel_backlight -dec 10
+-  sudo light -A 20
 - grub-mkconfig -o /boot/grub/grub.cfg 
 - nmcli device wifi connect SSID_or_BSSID password password
 - output HDMI-A-1 resolution 1920x1080 position 0 0 transform 270 
