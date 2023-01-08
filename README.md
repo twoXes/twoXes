@@ -63,6 +63,14 @@
 
 ## Top 5 Lists
 
+| Rank | Philosophers | Rappers | Directors | Movies | Novels | 
+|  --  |     ---      |  ---    |    ---    |  ---   |  ---   |
+|  1   | Nietzsche    | MF Doom | Tarkovsky | Moonlight | Brothers Karamazov |
+|  2   | Kant         | Rakim   | Kubrick   | Barry Lyndon | The Stars My Destination | 
+|  3   | Dostoyevsky  | Biggie  |           | City Lights  | And Quiet Flows the Don | 
+|  4   | Foucault     | Nas     |           | Rocky        | Cryptonomicon |
+|  5   | Heidgger     | Lil Kim | John Carpenter | Children of Paradise | Great Expectations 
+
 #### Philosophers
 1. Nietzsche 
 2. Kant
