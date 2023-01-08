@@ -57,6 +57,9 @@
 - nmcli device wifi connect SSID_or_BSSID password password
 - output HDMI-A-1 resolution 1920x1080 position 0 0 transform 270 
 
+## Too Read
+
+[cprimozic Blog](https://cprimozic.net/blog/)
 
 ## Top 5 Lists
 
