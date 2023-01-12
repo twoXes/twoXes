@@ -60,7 +60,9 @@
 
 ## Too Read
 
-[cprimozic Blog](https://cprimozic.net/blog/)
+- [cprimozic Blog](https://cprimozic.net/blog/)
+- [how to build an evil compiler](https://www.awelm.com/posts/evil-compiler/) 
+
 
 ## Top 5 Lists
 
