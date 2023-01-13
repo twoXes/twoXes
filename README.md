@@ -60,17 +60,17 @@
 
 ## Too Read
 
-- [cprimozic Blog](https://cprimozic.net/blog/)
 - [how to build an evil compiler](https://www.awelm.com/posts/evil-compiler/) 
+- [How we used WebAssembly to annihilate 80,000 lines of legacy code](https://ziglang.org/news/goodbye-cpp/)
 
 
 ## Top 5 Lists
 
-| Rank | Philosophers | Rappers | Directors | Movies | Novels | 
-|  --  |     ---      |  ---    |    ---    |  ---   |  ---   |
-|  1   | Nietzsche    | MF Doom | Tarkovsky | Moonlight | Brothers Karamazov |
-|  2   | Kant         | Rakim   | Kubrick   | Barry Lyndon | The Stars My Destination | 
-|  3   | Dostoyevsky  | Biggie  |           | City Lights  | And Quiet Flows the Don | 
-|  4   | Foucault     | Nas     |           | Rocky        | Cryptonomicon |
-|  5   | Heidgger     | Lil Kim | John Carpenter | Children of Paradise | Great Expectations 
+| Rank | Philosophers | Rappers | Directors | Movies | Novels | Languages | 
+|  --  |     ---      |  ---    |    ---    |  ---   |  ---   |  ---      | 
+|  1   | Nietzsche    | MF Doom | Tarkovsky | Moonlight | Brothers Karamazov | 6502 Assembly |
+|  2   | Kant         | Rakim   | Kubrick   | Barry Lyndon | The Stars My Destination | RiscV ISA | 
+|  3   | Dostoyevsky  | Biggie  |           | City Lights  | And Quiet Flows the Don | C |
+|  4   | Foucault     | Nas     |           | Rocky        | Cryptonomicon | Lisp |
+|  5   | Heidgger     | Lil Kim | John Carpenter | Children of Paradise | Great Expectations | French | 
 
