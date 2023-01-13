@@ -66,9 +66,9 @@
 
 ## Top 5 Lists
 
-| Rank | Philosophers | Rappers | Directors | Movies | Novels | Languages | Programmers  
-|  --  |     ---      |  ---    |    ---    |  ---   |  ---   |  ---      | Jones, the Dolphin, in Johnny Mnemonic |
-|  1   | Nietzsche    | MF Doom | Tarkovsky | Moonlight | Brothers Karamazov | 6502 Assembly | |
+| Rank | Philosophers | Rappers | Directors | Movies | Novels | Languages | Programmers  | 
+|  --  |     ---      |  ---    |    ---    |  ---   |  ---   |  ---      | ---| 
+|  1   | Nietzsche    | MF Doom | Tarkovsky | Moonlight | Brothers Karamazov | 6502 Assembly |Jones, the Dolphin, in Johnny Mnemonic | |
 |  2   | Kant         | Rakim   | Kubrick   | Barry Lyndon | The Stars My Destination | Risc V ISA | | 
 |  3   | Dostoyevsky  | Biggie  |           | City Lights  | And Quiet Flows the Don | C | |
 |  4   | Foucault     | Nas     |           | Rocky        | Cryptonomicon | Lisp | |
