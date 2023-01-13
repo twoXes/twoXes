@@ -72,5 +72,5 @@
 |  2   | Kant         | Rakim   | Kubrick   | Barry Lyndon | The Stars My Destination | RiscV ISA | 
 |  3   | Dostoyevsky  | Biggie  |           | City Lights  | And Quiet Flows the Don | C |
 |  4   | Foucault     | Nas     |           | Rocky        | Cryptonomicon | Lisp |
-|  5   | Heidgger     | Lil Kim | John Carpenter | Children of Paradise | Great Expectations | French | 
+|  5   | Heidgger     | Lil Kim | John Carpenter | Children of Paradise | Great Expectations | Ancient Greek | 
 
