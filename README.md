@@ -62,6 +62,7 @@
 
 - [how to build an evil compiler](https://www.awelm.com/posts/evil-compiler/) 
 - [How we used WebAssembly to annihilate 80,000 lines of legacy code](https://ziglang.org/news/goodbye-cpp/)
+- [Redman's Staten Island Cribs BluePrint](https://youtu.be/zNtKT9_1KXQ)
 
 
 ## Top 5 Lists
