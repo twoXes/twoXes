@@ -43,6 +43,7 @@
 - :clamp: [clang](https://wiki.archlinux.org/title/clang)
 - :abacus: [typescript language server](https://archlinux.org/packages/community/any/typescript-language-server/)
 - :petri_dish: [make](https://archlinux.org/packages/core/x86_64/make/)
+- :lady_beetle: [gdb](https://archlinux.org/packages/extra/x86_64/gdb/)
 - :fox_face: [firefox](https://wiki.archlinux.org/title/firefox)
 - :trackball: [chromium](https://wiki.archlinux.org/title/chromium)
   - :control_knobs: [audion](https://chrome.google.com/webstore/detail/audion/cmhomipkklckpomafalojobppmmidlgl)
