@@ -58,6 +58,7 @@
 - grub-mkconfig -o /boot/grub/grub.cfg 
 - nmcli device wifi connect SSID_or_BSSID password password
 - output HDMI-A-1 resolution 1920x1080 position 0 0 transform 270 
+- cc yourgame.c `pkg-config --libs --cflags raylib` -o YourGame
 
 ## Too Read
 
